@@ -5,7 +5,7 @@
 <h2>Connector</h2>
 Motor
   1.VCC
-  2.GND
+  2.GND<br>
 Encoder
   1.VCC
   2.GND
