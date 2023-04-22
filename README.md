@@ -12,8 +12,8 @@ No  | Motor  |  Encoder | Laser | Emergency Stop1 | Emergency Stop2 | Emergency 
 ----- | ----- | ----- | ----- | ----- | ----- | ----- 
 1. | VCC | VCC | VCC | VCC | VCC | VCC
 2. | GND | GND | GND | GND | GND | GND
-3. | - | ENA | SDA | Signal | Signal | Signal
-4. | - | ENB | SCL | - | - | 
+3. | t | ENA | SDA | Signal | Signal | Signal
+4. | t | ENB | SCL | t | t | 
 
 
 <h4>Motor</h4><br>
