@@ -10,10 +10,10 @@
 
 No  | Motor  |  Encoder | Laser | Emergency Stop1 | Emergency Stop2 | Emergency Stop3
 ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-1. | VCC | VCC | VCC | VCC | VCC | VCC |
-2. | GND | GND | GND | GND | GND | GND |
-3. | t | ENA | SDA | Signal | Signal | Signal |
-4. | t | ENB | SCL | t | t |
+1 | VCC | VCC | VCC | VCC | VCC | VCC |
+2 | GND | GND | GND | GND | GND | GND |
+3 | t | ENA | SDA | Signal | Signal | Signal |
+4 | t | ENB | SCL | t | t |
 ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
 Col1  | Col2  |  Col3 | Col4
