@@ -3,29 +3,29 @@
 ![image](https://media.discordapp.net/attachments/974688181205233695/1099328576920236183/image.png?width=697&height=701)
 
 <h2>Connector</h2>
-Motor
-  1.VCC
+Motor<br>
+  1.VCC<br>
   2.GND<br>
-Encoder
-  1.VCC
-  2.GND
-  3.ENA
-  4.ENB
-Laser
-  1.VCC
-  2.GND
-  3.SDA
-  4.SCL
-Emergency Stop1
-  1.VCC
-  2.GND
-  3.Signal
-Emergency Stop2
-  1.VCC
-  2.GND
-  3.Signal
-Emergency Stop3
-  1.VCC
-  2.GND
+Encoder<br>
+  1.VCC<br>
+  2.GND<br>
+  3.ENA<br>
+  4.ENB<br>
+Laser<br>
+  1.VCC<br>
+  2.GND<br>
+  3.SDA<br>
+  4.SCL<br>
+Emergency Stop1<br>
+  1.VCC<br>
+  2.GND<br>
+  3.Signal<br>
+Emergency Stop2<br>
+  1.VCC<br>
+  2.GND<br>
+  3.Signal<br>
+Emergency Stop3<br>
+  1.VCC<br>
+  2.GND<br>
   3.Signal
 
