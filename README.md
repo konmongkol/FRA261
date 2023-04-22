@@ -18,10 +18,11 @@ No  | Motor  |  Encoder | Laser | Emergency Stop1 | Emergency Stop2 | Emergency 
 
 No  | Motor  |  Encoder | Laser | Emergency Stop1 | Emergency Stop2 | Emergency Stop3
 ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-1. | VCC
-2. | GND
-3. | t
+1. | VCC | VCC | VCC | VCC | VCC | VCC |
+2. 
+3. | GND
 4. | t
+5. | t
 
 
 <h4>Motor</h4><br>
