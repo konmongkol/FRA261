@@ -8,19 +8,12 @@
 ***** | ***** | ***** | ***** |
 
 
-Col1  | Col2  |  Col3 | Col4
------ | ----- | ----- | ----- |
-Test1 | Test1 | Test1 | Test1 |
-Test2 | Test2 | Test2 | Test2 |
-Test3 | Test3 | Test3 | Test3 |
-
- 
-* item 1
-* item 2 
-  * sub item 1
-  * sub item 2
-
-
+No  | Motor  |  Encoder | Laser | Emergency Stop1 | Emergency Stop2 | Emergency Stop3
+----- | ----- | ----- | ----- | ----- | ----- | ----- 
+1. | VCC | VCC | VCC | VCC | VCC | VCC
+2. | GND | GND | GND | GND | GND | GND
+3. |  | ENA | SDA | Signal | Signal | Signal
+4. |  | ENB | SCL |  |  | 
 
 
 <h4>Motor</h4><br>
