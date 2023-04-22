@@ -16,8 +16,8 @@ No  | Motor  |  Encoder | Laser | Emergency Stop1 | Emergency Stop2 | Emergency 
 4. | t | ENB | SCL | t | t |
 
 
-No  | Motor
------ | -----
+No  | Motor  |  Encoder | Laser | Emergency Stop1 | Emergency Stop2 | Emergency Stop3
+----- | ----- | ----- | ----- | ----- | ----- | ----- |
 1. | VCC
 2. | GND
 3. | t
