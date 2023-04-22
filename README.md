@@ -16,14 +16,11 @@ No  | Motor  |  Encoder | Laser | Emergency Stop1 | Emergency Stop2 | Emergency 
 4. | t | ENB | SCL | t | t |
 ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 
-No  | Motor  |  Encoder | Laser | Emergency Stop1 | Emergency Stop2 | Emergency Stop3
------ | ----- | ----- | ----- | ----- | ----- | ----- |
-1. | VCC | VCC | VCC | VCC | VCC | VCC |
-2. ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-3. 
-4. | GND
-5. | t
-6. | t
+Col1  | Col2  |  Col3 | Col4
+----- | ----- | ----- | ----- |
+1. | Test1 | Test1 | Test1 |
+Test2 | Test2 | Test2 | Test2 |
+Test3 | Test3 | Test3 | Test3 |
 
 
 <h4>Motor</h4><br>
