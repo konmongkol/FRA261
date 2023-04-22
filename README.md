@@ -4,7 +4,7 @@
 
 ## Connector
 
-No | Motor | Encoder | Laser | Emergency Stop1 | Emergency Stop2 | Emergency Stop3
+| No | Motor | Encoder | Laser | Emergency Stop1 | Emergency Stop2 | Emergency Stop3 |
 ***** | ***** | ***** | ***** |
 
 
