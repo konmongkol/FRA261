@@ -3,7 +3,7 @@
 ## Connector
 
 Pin  | Motor  |  Encoder | Encoder | Emergency Stop1 | Emergency Stop2 
------ | ----- | ----- | ----- | ----- | ----- | ----- 
+----- | ----- | ----- | ----- | ----- | ----- | ----- |
 1 | VCC | VCC | GND | VCC | VCC |
 2 | GND | GND | SDA | GND | GND |
 3 |  | Phase A | SCL | Signal | Signal |
