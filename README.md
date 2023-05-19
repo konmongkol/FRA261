@@ -2,12 +2,12 @@
 
 ## Connector
 
-Pin  | Motor  |  Encoder | Encoder | Emergency Stop1 | Emergency Stop2 | 
------ | ----- | ----- | ----- | ----- | ----- | ----- | 
-1 | VCC | VCC | GND | VCC | VCC | 
-2 | GND | GND | SDA | GND | GND | 
-3 |  | Phase A | SCL | Signal | Signal | 
-4 |  | Phase A | VCC | 
+| Pin | Motor | Encoder | End Effector | Emergency Stop 1 | Emergency Stop 2 |
+|-----|----------------|---------|---------|------------------|------------------|
+| 1 | VCC |   VCC   | GND |   VCC  |   VCC  |
+| 2 | GND |   GND   | SDA |   GND  |   GND  |
+| 3 |     | Phase A | SCL | Signal | Signal |
+| 4 |     | Phase B | VCC |        |        |
 
 <br>
 
