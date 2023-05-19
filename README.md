@@ -2,12 +2,12 @@
 
 ## Connector
 
-Pin  | Motor  |  Encoder | Laser | Emergency Stop1 | Emergency Stop2 | Emergency Stop3
------ | ----- | ----- | ----- | ----- | ----- | ----- |
-1 | VCC | VCC | VCC | VCC | VCC | VCC |
-2 | GND | GND | GND | GND | GND | GND |
-3 |  | ENA | SDA | Signal | Signal | Signal |
-4 |  | ENB | SCL |  |  |
+Pin  | Motor  |  Encoder | Encoder | Emergency Stop1 | Emergency Stop2 
+----- | ----- | ----- | ----- | ----- | ----- | ----- 
+1 | VCC | VCC | GND | VCC | VCC |
+2 | GND | GND | SDA | GND | GND |
+3 |  | Phase A | SCL | Signal | Signal |
+4 |  | Phase A | VCC |  |
 
 <br>
 
